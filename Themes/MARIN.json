@@ -1,0 +1,63 @@
+{
+    "_JSON_": true,
+    "AUTHOR": "ᥴꫝꫀꪗ-𝙎𝙖𝙣",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+    "updater": {
+    "UPDATE": "Your bot is already on latest version Dear",
+    "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
+    "UPDATED_LOCAL": "Fresh Updates Installed!"
+    },
+    "global": {
+    "botName": " 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙼𝚊𝚛𝚒𝚗 𝙺𝚒𝚝𝚊𝚐𝚊𝚠𝚊",
+    
+    "body": "SHAZAM!",
+    "greet2" : "Hey dear❣️",
+    "pic1": "https://wallpapercave.com/uwp/uwp2518154.webp",
+    "pic2": "https://wallpapercave.com/uwp/uwp2518151.webp",
+    "pic3": "https://wallpapercave.com/uwp/uwp2518150.jpeg",
+    "pic4": "https://wallpapercave.com/uwp/uwp1895871.jpeg",
+    "pic5": "https://wallpapercave.com/uwp/uwp1895867.png",
+    "pic6": "https://images4.alphacoders.com/121/thumb-1920-1211801.png",
+    "pic7": "https://images7.alphacoders.com/121/thumb-1920-1210002.png",
+    "gif1": "https://c.tenor.com/d5IEWVrGugkAAAAd/marin-kitagawa.gif",
+    "gif2": "https://tenor.com/bO4Jp.gif",
+    "gif3": "https://tenor.com/bPxpn.gif",
+    "gif4": "https://tenor.com/bLv5w.gif",
+    "gif5": "https://tenor.com/bQOX5.gif",
+    "gif6": "https://tenor.com/bR8l1.gif",
+    "gif7": "https://tenor.com/bRzrF.gif",
+    "greet" : "Ahh darling❣️✨",
+    "dotbody" : "Hello hello am here..",
+    "promote": "A new worthy hero arrived",
+    "pmallow": "Hii,This is Marin Kitagawa\n*My Senpai❣️ ᥴꫝꫀꪗ-𝙎𝙖𝙣✨ seems busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap♡......_",
+    "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐌𝐚𝐫𝐢𝐧 𝐊𝐢𝐭𝐚𝐠𝐚𝐰𝐚_",
+    "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐌𝐚𝐫𝐢𝐧 𝐊𝐢𝐭𝐚𝐠𝐚𝐰𝐚*",
+    "permited": "Hii ${tname} Senpai*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐌𝐚𝐫𝐢𝐧 𝐊𝐢𝐭𝐚𝐠𝐚𝐰𝐚",
+    "revoked" : "Hii ${tname} Senpai\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐌𝐚𝐫𝐢𝐧 𝐊𝐢𝐭𝐚𝐠𝐚𝐰𝐚",
+    "demote": "Your not hero anymore",
+    "antlink": "Link Detected.\n*Good Bye Worthless*",
+    "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐌𝐚𝐫𝐢𝐧 𝐊𝐢𝐭𝐚𝐠𝐚𝐰𝐚*",
+    "mention": " Please mention any user dear",
+    "title": "𝖒𝖆𝖗𝖎𝖓(♡ω♡)🖤🤍~♪𝓴𝓪𝓽𝓪𝓰𝓪𝔀𝓪",
+    "footer": "ᴍᴀʀɪɴ ᴋɪᴛᴀɢᴀᴡᴀ",
+    "by": "Made by: ᥴꫝꫀꪗ-𝙎𝙖𝙣",
+    "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+    "success": "Success ✓",
+    "dot": "Hello Dear,I'm almost near about No One.\n Why don't you try -help",
+    "couple_male": "I'm sorry i didn't understand for so long",
+    "couple_female": "Put everything in your soulders",
+    "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
+    "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 .❗",
+    "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ᥴꫝꫀꪗ-𝙎𝙖𝙣⚠️",
+    "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+    "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ᥴꫝꫀꪗ-𝙎𝙖𝙣⚠️",
+    "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+    "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+    },
+    "error": {
+    "text": "Task Terminated"
+    }
+    }
+    }
